@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new home page banner.",
+      "details": "Creating Home page for website! \n",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "Making marketing email template.",
+      "details": "Creating an marketing email template for customer!",
+      "complete": true
+    },
+    {
+      "title": "Junk",
+      "details": "Done..",
+      "complete": true,
+      "id": "G0LdWzo"
+    }
+  ]
+}
